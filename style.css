@@ -9,13 +9,7 @@ body {
   justify-content: center;
   background-color: #eae2b7;
 }
-}
-a:link {
-  color: #d62828;
-}
-a:hover {
-  color: #f77f00;
-}
+
   
   
   
@@ -53,7 +47,7 @@ nav a {
   color: red; /* Change #ff5733 to your desired color */
 }
 a:link {
-  color: red;
+  color: #f77f00;
 }
   
 
