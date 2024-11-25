@@ -12,6 +12,12 @@ body {
   
   
 }
+a:link {
+  color: #d62828;
+}
+a:hover {
+  color: #f77f00;
+}
 
   
 
