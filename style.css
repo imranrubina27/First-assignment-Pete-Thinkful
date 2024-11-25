@@ -11,13 +11,7 @@ body {
   
   
   
-}
-a:link {
-  color: #d62828;
-}
-a:hover {
-  color: #f77f00;
-}
+
 
   
 
@@ -92,6 +86,13 @@ hr {
                width: 100%;
                max-width: 200px;
   height: auto;
+}
+a:link {
+  color: #d62828;
+}
+a:hover {
+  color: #f77f00;
+}               
               
                
               
