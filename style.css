@@ -10,7 +10,7 @@ body {
   
 }
 
-.content {  
+.content, portfolio, contact {  
     text-align: center;
   
 }
