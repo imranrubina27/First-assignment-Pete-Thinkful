@@ -31,8 +31,8 @@ nav {
 nav a {
   color: red; /* Change #ff5733 to your desired color */
 }
-a:link {
-  color: red;
+nav a: hover {
+  color: #f77f00;
 }
   
 
