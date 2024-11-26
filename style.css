@@ -10,7 +10,7 @@ body {
   background-color: #eae2b7;
 }
 body {
-  content:center-align;
+  text-align: center;
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
