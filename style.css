@@ -9,12 +9,7 @@ body {
 body {
   background-color: #eae2b7;
 }
-body {
-  text-align: center;
-}
-.content {
-  text-align: center;
-}
+
 
 /* Set the font family for any h1, h2, or h3 heading */
 h1,
@@ -72,11 +67,11 @@ hr {
 
 /* Add your solution below */
 
-.image-circle { border-radius: 50%;
-               width:175px;
-               height:175px;
+.image-circle {
+  border-radius: 50%;
+   margin-top: 0px;
+  border: 5px solid #003049
                
-              
 }
 footer {
   text-align: center;
