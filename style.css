@@ -39,10 +39,11 @@ nav a: hover {
 article {
   padding: 20px 0;
 }
-
-article div {
-  text-align: center;
-  width: 100%;
+display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  flex-direction: column; 
+  text-align: center; 
 }
 
 p {
@@ -75,6 +76,8 @@ img {
   
                
 }
+.image-circle {
+  
 footer {
   text-align: center;
   
