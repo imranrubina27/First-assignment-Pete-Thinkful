@@ -71,6 +71,7 @@ img {
 
 .image-circle {
   border-radius: 50%;
+  border: 2px solid #003049;
    diplay: block;
   margin: auto;
   
