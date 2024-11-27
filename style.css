@@ -32,6 +32,13 @@ nav a: {
   
   align-text: center;
 }
+nav a {
+margin: 0 20px;
+color:red;
+}
+nav a:hover {
+color: #f77f00;
+}
   
 
 article {
