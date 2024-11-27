@@ -9,7 +9,7 @@ body {
 body {
   background-color: #eae2b7;
 }
-header, .content {
+ .content {
   display: flex;
   flex-direction: column;
   align-items: center; 
