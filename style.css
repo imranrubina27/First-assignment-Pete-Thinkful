@@ -39,6 +39,20 @@ color:red;
 nav a:hover {
 color: #f77f00;
 }
+.contact-link, 
+article a {
+  color: red;
+}
+.contact-link:hover,
+article a:hover {
+  color: #f77f00;
+}
+.social-links a {
+  color: red;
+}
+.social-links a:hover {
+  color: #f77f00;
+}
   
 
 article {
