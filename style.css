@@ -63,7 +63,8 @@ div {
 
 
 hr {
-  border: 10px solid black;
+  width: 80%;
+  border: 1px solid black;
 }
 
 /* Add your solution below */
