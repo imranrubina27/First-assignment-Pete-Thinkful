@@ -72,11 +72,12 @@ img {
 .image-circle {
   border-radius: 50%;
    diplay: block;
-  margin: 0 auto;
+  margin: auto;
   
                
 }
-.image-circle {
+
+  
   
 footer {
   text-align: center;
