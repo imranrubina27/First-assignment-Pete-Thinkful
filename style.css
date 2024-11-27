@@ -15,8 +15,7 @@ body {
   align-items: center; 
 }
 nav a {
- 
-  color: red;
+ color: #d62828;
 }
 nav a:hover {
   color: #f77f00;
