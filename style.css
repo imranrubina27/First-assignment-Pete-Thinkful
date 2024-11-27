@@ -53,7 +53,12 @@ article a:hover {
 .social-links a:hover {
   color: #f77f00;
 }
-  
+  .inline-link {
+  color: red;
+  }
+.inline-link:hover {
+  color: #f77f00;
+}
 
 article {
   padding: 20px 0;
