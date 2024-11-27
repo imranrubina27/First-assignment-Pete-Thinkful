@@ -14,12 +14,7 @@ body {
   flex-direction: column;
   align-items: center; 
 }
-nav a {
- color: #d62828;
-}
-nav a:hover {
-  color: #f77f00;
-}
+
 .contact-link {
   color: red;
 }
@@ -42,7 +37,12 @@ nav {
   justify-content: center;
   align-items: center;
   gap: 20px;
-  
+  nav a {
+ color: #d62828;
+}
+nav a:hover {
+  color: #f77f00;
+}
 
   
 
@@ -69,7 +69,8 @@ div {
 
 
 hr {
-  
+  width: 80%;
+  margin: 20px auto;
   border: 1px solid black;
 }
 
