@@ -9,6 +9,12 @@ body {
 body {
   background-color: #eae2b7;
 }
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
 
 /* Set the font family for any h1, h2, or h3 heading */
