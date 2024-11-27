@@ -14,13 +14,14 @@ body {
   flex-direction: column;
   align-items: center; 
 }
-}
 nav a {
-  color: red; /* Change #ff5733 to your desired color */
+  margin: 0 20px;
+  color: red;
 }
-nav a: hover {
+nav a:hover {
   color: #f77f00;
 }
+
 
 /* Set the font family for any h1, h2, or h3 heading */
 h1,
