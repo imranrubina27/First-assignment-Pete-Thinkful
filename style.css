@@ -15,12 +15,7 @@ body {
   align-items: center; 
 }
 
-.contact-link {
-  color: red;
-}
-.contact-link:hover {
-  color: #f77f00; 
-}
+
 
 
 /* Set the font family for any h1, h2, or h3 heading */
@@ -43,7 +38,12 @@ nav {
 nav a:hover {
   color: #f77f00;
 }
-
+.contact-link {
+  color: red;
+}
+.contact-link:hover {
+  color: #f77f00; 
+}
   
 
 article {
