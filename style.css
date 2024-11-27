@@ -23,7 +23,8 @@ h2,
 h3 {
   font-family: "Playfair Display", Times, serif;
 }
-h1,h2,h3 {
+h1, h2, h3, .image-circle {
+  margin: 10px 0;
   text-align: center;
 }
 nav {
