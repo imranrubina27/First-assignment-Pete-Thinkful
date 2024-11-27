@@ -29,7 +29,7 @@ h3 {
 
 
 nav a: {
-  margin: 0 20px;
+  
   align-text: center;
 }
   
@@ -52,7 +52,8 @@ div {
 
 
 hr {
-  width: 0%;
+  width: 50%;
+  margin: 20px auto;
   
   border: 2px solid black;
 }
