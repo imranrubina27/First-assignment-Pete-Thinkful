@@ -28,17 +28,8 @@ h3 {
 
 
 
-  nav a {
- color: #d62828;
-}
-nav a:hover {
-  color: #f77f00;
-}
-.contact-link {
-  color: red;
-}
-.contact-link:hover {
-  color: #f77f00; 
+nav a: {
+  align-text: center;
 }
   
 
@@ -65,7 +56,7 @@ div {
 
 
 hr {
-  width: 60%;
+  width: 40%;
   border: 2px solid black;
 }
 
