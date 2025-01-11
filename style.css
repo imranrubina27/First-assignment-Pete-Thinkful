@@ -123,7 +123,7 @@ header {
   justify-content: center;
    gap: 20px; /* reduce the gap to 10px */
    background-color: #eae2b7;
-  padding: 10px20px;
+  padding: 10px 20px;
 }
 .logo {
   margin-center: 10px; /* reduce the margin to 10px */
