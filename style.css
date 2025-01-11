@@ -124,6 +124,9 @@ header {
    gap: 20px; /* reduce the gap to 10px */
    background-color: #eae2b7;
   padding: 10px 20px;
+  text-family: Playfair Display;
+  font-size:1.5em;
+  white-space: nowrap
 }
 .logo {
   margin-center: 10px; /* reduce the margin to 10px */
