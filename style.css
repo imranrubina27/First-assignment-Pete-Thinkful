@@ -68,7 +68,7 @@ a:link {
 .center-align {
 text-align: justify;
 margin: 0 auto;
-line-height: 1.6 
+line-height: 1.6;
 width: 80%; /* Optional: adjust width to control the line length */
 }
 
