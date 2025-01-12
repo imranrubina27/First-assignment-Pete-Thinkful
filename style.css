@@ -48,11 +48,11 @@ header h2 {
   white-space: nowrap
 }
  h3 {
- text-align: center;
+ text-align: right;
   
 }
 h3.class-item {
-  text-align: center;
+  text-align: right;
 }
 .nav-bar {
  display: flex;
