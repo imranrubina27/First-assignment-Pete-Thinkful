@@ -48,9 +48,8 @@ h3 {
 h3.class-item {
   text-align: center;
 }
-nav {
-
-  display: flex;
+.nav-bar {
+ display: flex;
   gap: 20px;
 }
 nav a {
