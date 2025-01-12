@@ -51,10 +51,7 @@ h3.class-item {
 nav {
 
   display: flex;
-  justify-content: right;
-  align-items: right;
   gap: 20px;
-
 }
 nav a {
   color: red; /* Change #ff5733 to your desired color */
