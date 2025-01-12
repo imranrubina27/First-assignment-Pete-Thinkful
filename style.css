@@ -39,9 +39,14 @@ header h1 {
   font-size:1.5em;
   white-space: nowrap
 }
-h2 {
-  text-align: center;
-} 
+header h2 {
+ text-align: center;
+  margin: 0;
+  padding: 10px 20px;
+  text-family: Playfair Display;
+  font-size:1.5em;
+  white-space: nowrap
+}
 h3 {
   text-align: right;
 }
