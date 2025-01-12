@@ -47,8 +47,13 @@ header h2 {
   font-size:1.5em;
   white-space: nowrap
 }
-h3 {
-  text-align: right;
+header h3 {
+ text-align: center;
+  margin: 0;
+  padding: 10px 20px;
+  text-family: Playfair Display;
+  font-size:1.5em;
+  white-space: nowrap
 }
 h3.class-item {
   text-align: center;
