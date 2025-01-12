@@ -53,7 +53,12 @@ h3.class-item {
   gap: 20px;
 }
 .nav-bar a {
-  color: red; /* Change #ff5733 to your desired color */
+  color: #003049;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1em;
+  white-space: nowrap;
+  
 }
 a:link {
   color: red;
