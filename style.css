@@ -52,7 +52,7 @@ h3.class-item {
  display: flex;
   gap: 20px;
 }
-nav a {
+.nav-bar a {
   color: red; /* Change #ff5733 to your desired color */
 }
 a:link {
