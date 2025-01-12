@@ -100,8 +100,8 @@ img {
 hr {
   border: 1px solid black;
   margin: auto;
-  max-width: 600px;
-  width: fit-content;
+width: fit-content;
+  padding: 10px;
 
 }
 
