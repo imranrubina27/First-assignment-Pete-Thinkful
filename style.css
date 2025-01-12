@@ -18,6 +18,13 @@ body {
   justify-content: center;
   align-items: center;
 }
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+   gap: 20px; /* reduce the gap to 10px */
+   background-color: #eae2b7;
+  }
 /* Set the font family for any h1, h2, or h3 heading */
 h1,
 h2,
@@ -122,13 +129,7 @@ footer {
 nav {
   /* add styles for the nav links here */
 }
-header {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-   gap: 20px; /* reduce the gap to 10px */
-   background-color: #eae2b7;
-  }
+
 .logo {
   margin-center: 10px; /* reduce the margin to 10px */
 }
