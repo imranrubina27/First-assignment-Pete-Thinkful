@@ -141,22 +141,14 @@ nav {
   
 }
 
-.artist-statement {
-  text-align: right;
-  text-align:justify to the right;
 
-}
-.artist-statement {
- justify-content: flex-end;
- margin-left: auto;
 }
 .header-container {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.artist-statement {
-  margin-right: -20px; /* bring the elements 10px closer */
+
 }
 .list {
   justify-content: right;
