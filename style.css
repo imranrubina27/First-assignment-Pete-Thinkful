@@ -103,6 +103,21 @@ hr {
 
 
 }
+.p-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.Abstract Red { 
+  flex: 1;
+}
+.Spiral Zany {
+  
+  flex: 2;
+}
+.Melted Rainbow {
+  flex: 3;
+}
 
 /* Add your solution below */
 
@@ -113,11 +128,11 @@ hr {
 
 
 }
-/*.image-circle {
+.image-circle {
   float: left;
   align: left: 5px;
 }
-*/
+
 .image-circle {
   outline-style:solid;
   outline-width: 2px;
