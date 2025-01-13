@@ -113,10 +113,11 @@ hr {
 
 
 }
-.image-circle {
+/*.image-circle {
   float: left;
   align: left: 5px;
 }
+*/
 .image-circle {
   outline-style:solid;
   outline-width: 2px;
