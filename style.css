@@ -21,7 +21,7 @@ body {
 .class-item {
   flex: 1;
   margin: 1px;
-   white-space:nowrap;
+  
 }
 
 header {
@@ -114,15 +114,11 @@ hr {
 
 
 
-.p-container {
-  display: flex;
-  flex-direction: row;
-}
 
 .Abstract Red { 
   flex: 1;
 }
-.Spiral-Zany {
+.Spiral Zany {
   
   flex: 2;
 }
