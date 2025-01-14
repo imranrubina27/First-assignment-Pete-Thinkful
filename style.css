@@ -25,6 +25,7 @@ body {
   width:0px;
   margin-left: 0px;
   margin-right: 0px;
+  white-space:nowrap;
 }
 
 header {
