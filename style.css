@@ -21,11 +21,7 @@ body {
 .class-item {
   flex: 1;
   margin: 1px;
-  box-sizing:content-box;
-  width:0px;
-  margin-left: 0px;
-  margin-right: 0px;
-  white-space:nowrap;
+   white-space:nowrap;
 }
 
 header {
