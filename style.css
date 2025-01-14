@@ -107,9 +107,14 @@ img {
 hr {
   border: 1px solid black;
   line-length: 1.6;
+  height:4px;
+  
 
 
 }
+
+
+
 .p-container {
   display: flex;
   flex-direction: row;
