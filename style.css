@@ -18,18 +18,11 @@ body {
   flex-direction: row;
   
 }
-.Abstract Red {
+.class-item {
   flex: 1;
   margin: 10px;
 }
-.Spiral-Zany {
-    flex: 1;
-  margin: 10px;
-}
-.Melted-Rainbow {
-    flex: 1;
-  margin: 10px;
-}
+
 header {
   display: flex;
   align-items: center;
