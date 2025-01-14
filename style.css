@@ -22,7 +22,9 @@ body {
   flex: 1;
   margin: 1px;
   box-sizing:content-box;
-  width:10px;
+  width:0px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 header {
