@@ -18,7 +18,7 @@ body {
   flex-direction: row;
   
 }
-.class-item1 {
+.class-item {
   flex: 1;
   margin: 1px;
    white-space:nowrap;
