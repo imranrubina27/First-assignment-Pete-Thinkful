@@ -21,6 +21,8 @@ body {
 .class-item {
   flex: 1;
   margin: 1px;
+  box-sizing:content-box;
+  width:100px;
 }
 
 header {
